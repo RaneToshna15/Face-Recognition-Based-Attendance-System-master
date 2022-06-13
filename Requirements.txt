@@ -1,0 +1,5 @@
+Requirements for the project:
+
+1)Software Requirements: Windows7 or higher os, VS Code or any Python IDE, MS Excel.
+
+2)Hardware Requirements: PC or Laptop with x86-64(64-bit) comaptible processors, A camera or webcam.
